@@ -4,7 +4,7 @@
     <ExtensionPackage 
       name="DragAndDropWidget"
       packageVersion="1.0.0"
-      vendor="Accenture Italy - Industry X"
+      vendor="Gianpiero Di Blasi"
       description='Extension implementing a general purpose "drag and drop" framework'
       minimumThingWorxVersion="8.3.0"
       dependsOn=""> 
