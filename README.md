@@ -1,6 +1,8 @@
 # DragAndDropWidget
 An extension implementing a general purpose "drag and drop" framework.
 
+**This Extension is provided as-is and without warranty or support. It is not part of the PTC product suite and there is no PTC support.**
+
 ## Description
 This extension provides a widget implementing a general purpose "drag and drop" framework. This widget can be configured to behave in two different ways:
 - as a drag&drop source: it will manage the drag phase
